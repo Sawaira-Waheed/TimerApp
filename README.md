@@ -71,3 +71,11 @@ TimerApp/
 ## License
 
 This project was developed for educational purposes.
+
+## Application Screenshot
+
+![Timer App Screenshot](screenshots/timer_app.png)
+
+## Project Structure
+
+The Timer App project is organized into different files and folders to keep the application structured and easy to manage. The `app` folder contains the main application source code, resources, and Android configuration files. The `gradle` folder contains the Gradle-related files required for building the project. The `build.gradle.kts` files contain the project and application build configurations, while `settings.gradle.kts` manages the project settings and modules. The `README.md` file provides information about the project, its features, technologies, and usage instructions. The `screenshots` folder contains screenshots of the application.
