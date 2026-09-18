@@ -24,7 +24,7 @@ A simple and user-friendly **Timer App** developed using Android Studio. The app
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/TimerApp.git
+git clone https://github.com/Sawaira-Waheed/TimerApp.git
 ```
 
 2. Open the project in **Android Studio**.
@@ -45,7 +45,7 @@ git clone https://github.com/YOUR-USERNAME/TimerApp.git
 
 ## Application Screenshot
 
-![Timer App Screenshot](screenshots/timer_app.png)
+![Timer App Screenshot](screenshots/timer_app.png.jpeg)
 
 ## Project Structure
 
